@@ -1,0 +1,18 @@
+c:\users\bjohnson2364\documents\visual studio 2013\Projects\Tack Tic\Tack Tic\bin\Debug\Tack Tic.exe.config
+c:\users\bjohnson2364\documents\visual studio 2013\Projects\Tack Tic\Tack Tic\bin\Debug\Tack Tic.exe
+c:\users\bjohnson2364\documents\visual studio 2013\Projects\Tack Tic\Tack Tic\bin\Debug\Tack Tic.pdb
+c:\users\bjohnson2364\documents\visual studio 2013\Projects\Tack Tic\Tack Tic\obj\Debug\Tack Tic.csprojResolveAssemblyReference.cache
+c:\users\bjohnson2364\documents\visual studio 2013\Projects\Tack Tic\Tack Tic\obj\Debug\Tack Tic.exe
+c:\users\bjohnson2364\documents\visual studio 2013\Projects\Tack Tic\Tack Tic\obj\Debug\Tack Tic.pdb
+D:\School Programing\Tack Tic\Tack Tic\bin\Debug\Tack Tic.exe.config
+D:\School Programing\Tack Tic\Tack Tic\obj\Debug\Tack Tic.exe
+D:\School Programing\Tack Tic\Tack Tic\obj\Debug\Tack Tic.pdb
+D:\School Programing\Tack Tic\Tack Tic\bin\Debug\Tack Tic.exe
+D:\School Programing\Tack Tic\Tack Tic\bin\Debug\Tack Tic.pdb
+D:\School Programing\Tack Tic\Tack Tic\obj\Debug\Tack Tic.csprojResolveAssemblyReference.cache
+C:\Users\Dauas\Desktop\Tack Tic\Tack Tic\bin\Debug\Tack Tic.exe.config
+C:\Users\Dauas\Desktop\Tack Tic\Tack Tic\obj\Debug\Tack Tic.exe
+C:\Users\Dauas\Desktop\Tack Tic\Tack Tic\obj\Debug\Tack Tic.pdb
+C:\Users\Dauas\Desktop\Tack Tic\Tack Tic\bin\Debug\Tack Tic.exe
+C:\Users\Dauas\Desktop\Tack Tic\Tack Tic\bin\Debug\Tack Tic.pdb
+C:\Users\Dauas\Desktop\Tack Tic\Tack Tic\obj\Debug\Tack Tic.csprojResolveAssemblyReference.cache
